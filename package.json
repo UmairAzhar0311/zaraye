@@ -1,0 +1,15 @@
+{
+  "name": "zaraye",
+  "version": "1.0.0",
+  "description": "Zaraye Prouct made with Node js ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
